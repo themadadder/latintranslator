@@ -1,0 +1,16 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\bin\Debug\net8.0-windows\LatinTranslator.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\bin\Debug\net8.0-windows\LatinTranslator.deps.json
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\bin\Debug\net8.0-windows\LatinTranslator.runtimeconfig.json
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\bin\Debug\net8.0-windows\LatinTranslator.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\bin\Debug\net8.0-windows\LatinTranslator.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\LatinTranslator.Form1.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\LatinTranslator.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\LatinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\LatinTranslator.AssemblyInfoInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\LatinTranslator.AssemblyInfo.cs
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\LatinTranslator.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\LatinTranslator.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\refint\LatinTranslator.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\LatinTranslator.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\LatinTranslator.genruntimeconfig.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 1 - Latin Translator\LatinTranslator\obj\Debug\net8.0-windows\ref\LatinTranslator.dll
